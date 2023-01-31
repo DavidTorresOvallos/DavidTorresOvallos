@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, My Name is David Torres Ovallos, and I'm a Full-Stack Developer
 
-<!--
-**DavidTorresOvallos/DavidTorresOvallos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+* English B1
+* Ruby On Rails
+* React
+* C#
 
-Here are some ideas to get you started:
+I am a full-stack developer focused on the backend, I have knowledge in Java, React, Ruby on Rails and a little bit of C#.
+I focus mainly on backend development with Ruby On Rails, and React for the frontend.
+I'm constantly learning C# because I like developing video games in Godot Engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently honing my skills in Ruby On Rails creating an accounting software focused on gyms and at the same time creating my resume in React
+
+I'm open to work !!!
+
+Here my linkedin:  https://www.linkedin.com/in/david-torres-ovallos-281278238/
